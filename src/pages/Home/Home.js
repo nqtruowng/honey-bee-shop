@@ -1,4 +1,5 @@
 function Home() {
+    console.log('akjlk')
     return (
         <div>
             Home
