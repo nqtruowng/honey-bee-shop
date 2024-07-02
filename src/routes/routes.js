@@ -1,8 +1,8 @@
-import Home from '../pages/Home/Home'
-import News from '../pages/News/News'
-import Contact from '../pages/Contact/Contact'
-import Present from '../pages/Present/Present'
-import Products from '../pages/Products/Products'
+import Home from '../pages/Home'
+import News from '../pages/News'
+import Contact from '../pages/Contact'
+import Present from '../pages/Present'
+import Products from '../pages/Products'
 
 const publicRoutes = [
     { path: '/', component: <Home /> },
