@@ -1,5 +1,10 @@
 @import 'normalize.css';
 @import url('https://font.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root{
     
 }
@@ -8,9 +13,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-html{
-    font-size: 62.5%;
 }
 
 body {
