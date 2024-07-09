@@ -1,5 +1,9 @@
 {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "javascript.format.semicolons": "remove"
+    "javascript.format.semicolons": "remove",
+    "eslint.alwaysShowStatus": true,
+    "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
